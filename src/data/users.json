@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "firstName": "Amal",
+        "lastName": "Thomson",
+        "email": "amalthomson@icloud.com",
+        "password": "Amal#123",
+        "age": 29,
+        "phone": "9469664422"
+    },
+    {
+        "id": 2,
+        "firstName": "Don",
+        "lastName": "Benny",
+        "email": "donbenny916@gmail.com",
+        "password": "Don#123",
+        "age": 24,
+        "phone": "9845597398"
+    },
+    {
+        "id": 3,
+        "firstName": "Naveen",
+        "lastName": "J P",
+        "email": "naveenjp@gmail.com",
+        "password": "Naveen#123",
+        "age": 24,
+        "phone": "9745932589"
+    }
+]
